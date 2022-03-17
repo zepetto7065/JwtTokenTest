@@ -1,2 +1,0 @@
-# JwtTokenTest
-SpringBootSecurity + JWT Token
