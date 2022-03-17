@@ -1,0 +1,2 @@
+var jsonData = JSON.parse(responseBody)
+pm.globals.set("jwt_tutorial_token", jsonData.token);
