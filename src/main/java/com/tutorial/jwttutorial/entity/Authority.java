@@ -1,4 +1,4 @@
-package me.silvernine.tutorial.entity;
+package com.tutorial.jwttutorial.entity;
 
 import lombok.*;
 

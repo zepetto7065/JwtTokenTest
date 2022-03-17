@@ -1,4 +1,4 @@
-package me.silvernine.tutorial;
+package com.tutorial.jwttutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
